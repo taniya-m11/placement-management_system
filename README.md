@@ -64,20 +64,15 @@ http://localhost/placement_system
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Home Page](home_page.png)
+![Home Page](screenshots/home_page.png)
 
-### 👨‍💼 Admin Login
-![Admin Login](admin_login.png)
+![Admin Login](screenshots/admin_login.png)
 
-### 📊 Admin Dashboard
-![Admin Dashboard](admin_dashboard.png)
+![Admin Dashboard](screenshots/admin_dashboard.png)
 
-### 👨‍🎓 Student Login
-![Student Login](student_login.png)
+![Student Login](screenshots/student_login.png)
 
-### 👨‍🎓 Student Dashboard
-![Student Dashboard](student_dashboard.png)
+![Student Dashboard](screenshots/student_dashboard.png)
 
 ## 📌 Future Enhancements
 
